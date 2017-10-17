@@ -1,0 +1,6 @@
+提示错误：Everything up to date
+1.没有git add .
+2.没有git commit -m "提示信息"
+
+如果都不是的话，那就是新建的文件内容为空。
+
